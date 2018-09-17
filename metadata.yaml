@@ -1,0 +1,27 @@
+_repo: Licht-en-schaduwbeelden-uit-de-Binnenlanden-van-Java_52477
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Junghuhn, Franz Wilhelm
+    alias: Junghuhn, F. W.
+    birthdate: 1809
+    deathdate: 1864
+    gutenberg_agent_id: '43257'
+    url: http://www.gutenberg.org/2009/agents/43257
+    wikipedia: http://de.wikipedia.org/wiki/Franz_Wilhelm_Junghuhn
+description: ''
+gutenberg_issued: '2016-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52477'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Java (Indonesia)'
+- !lcc 'DS'
+- !lcsh 'Java (Indonesia) -- Social life and customs'
+- GITenberg
+title: Licht- en schaduwbeelden uit de Binnenlanden van Java
+url: http://www.gutenberg.org/ebooks/52477
